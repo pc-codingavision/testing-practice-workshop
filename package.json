@@ -2,7 +2,7 @@
   "name": "javascript-angular-testing-workshop",
   "version": "0.0.0",
   "scripts": {
-    "test:inventory": "node ./node_modules/jasmine/bin/jasmine jasmine/evaluation/specs/inventory-stock.spec.js",
+    "test:bank-deposit": "node ./node_modules/jasmine/bin/jasmine jasmine/evaluation/specs/deposit.spec.js",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",

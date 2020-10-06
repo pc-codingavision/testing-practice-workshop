@@ -7,4 +7,6 @@ and implement the test case specifications inside the file `jasmine/evaluation/s
 ## 2 - Inventory Stock
 Implement the test case specifications inside the file `jasmine/evaluation/specs/inventory-stock.spec.js`.  
 ---
-  
+## 3 - Deposit Bank
+ Implement the test case specifications inside the file `jasmine/evaluation/specs/deposit.spec.js`.  
+ --- 
