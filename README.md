@@ -10,3 +10,6 @@ Implement the test case specifications inside the file `jasmine/evaluation/specs
 ## 3 - Deposit Bank
  Implement the test case specifications inside the file `jasmine/evaluation/specs/deposit.spec.js`.  
  --- 
+## 3 - Jasmine Matchers
+ Implement the test case specifications inside the file `jasmine/evaluation/specs/jasmine-matchers.spec.js`.  
+ --- 

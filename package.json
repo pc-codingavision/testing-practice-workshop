@@ -2,7 +2,7 @@
   "name": "javascript-angular-testing-workshop",
   "version": "0.0.0",
   "scripts": {
-    "test:bank-deposit": "node ./node_modules/jasmine/bin/jasmine jasmine/evaluation/specs/deposit.spec.js",
+    "test:matchers": "node ./node_modules/jasmine/bin/jasmine jasmine/evaluation/specs/jasmine-matchers.spec.js",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
