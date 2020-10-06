@@ -2,7 +2,7 @@
   "name": "javascript-angular-testing-workshop",
   "version": "0.0.0",
   "scripts": {
-    "test:factorial": "node ./node_modules/jasmine/bin/jasmine jasmine/evaluation/specs/factorial.spec.js",
+    "test:inventory": "node ./node_modules/jasmine/bin/jasmine jasmine/evaluation/specs/inventory-stock.spec.js",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
