@@ -1,6 +1,6 @@
 import { UserRole, User } from '../model/User';
 
-export const mockUser: Array<User> = [
+export const mockUsers: Array<User> = [
   {
     id: 1,
     name: 'Name 1',

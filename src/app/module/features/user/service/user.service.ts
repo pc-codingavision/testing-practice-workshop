@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { mockUser } from '../data/mock-data';
+import { mockUsers } from '../data/mock-data';
 import { EMPTY, empty, Observable, of } from 'rxjs';
 import { User, UserRole } from '../model/User';
 
@@ -8,7 +8,7 @@ import { User, UserRole } from '../model/User';
 })
 export class UserService {
 
-  users = mockUser;
+  users = mockUsers;
 
   constructor() {
   }
