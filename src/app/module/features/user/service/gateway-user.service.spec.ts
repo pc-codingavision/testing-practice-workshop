@@ -1,27 +1,19 @@
-import { TestBed } from '@angular/core/testing';
-
 import { GatewayUserService } from './gateway-user.service';
 import { fail } from 'assert';
 
 /**
- * Implement the following test cases without using the TestBed Angular facility.
+ * Implement the following test cases by using the TestBed Angular facility.
  */
 describe('GatewayUserService', () => {
   let service: GatewayUserService;
 
-  // beforeEach(() => {
-  //   TestBed.configureTestingModule({});
-  //   service = TestBed.inject(GatewayUserService);
-  // });
-  //
-  // it('should be created', () => {
-  //   expect(service).toBeTruthy();
-  // });
   describe('#findUserById', () => {
     it('#findUserById should return user for existing id', () => {
       fail('Method not implemented, yet')
     })
-    it('#findUserById should return empty for not existing id', () => {})
+    it('#findUserById should return empty for not existing id', () => {
+      fail('Method not implemented, yet')
+    })
   })
   describe('#findAllUsers', () => {
     it('#findAllUsers should return all users', () => {
