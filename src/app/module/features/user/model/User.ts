@@ -1,7 +1,8 @@
 export enum UserRole {
   BASIC,
   GOLD,
-  PLATINUM
+  PLATINUM,
+  VIP
 }
 
 export class User {
