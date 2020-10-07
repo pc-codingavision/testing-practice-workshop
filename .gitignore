@@ -45,3 +45,4 @@ testem.log
 .DS_Store
 Thumbs.db
 /jasmine/solutions/
+/src/app/module/features/user/service/gateway-user-solution.service.spec.ts
