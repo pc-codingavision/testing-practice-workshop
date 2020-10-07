@@ -9,39 +9,33 @@ import { fail } from 'assert';
 describe('GatewayUserService', () => {
   let service: GatewayUserService;
 
-  // beforeEach(() => {
-  //   TestBed.configureTestingModule({});
-  //   service = TestBed.inject(GatewayUserService);
-  // });
-  //
-  // it('should be created', () => {
-  //   expect(service).toBeTruthy();
-  // });
   describe('#findUserById', () => {
     it('#findUserById should return user for existing id', () => {
-      fail('Method not implemented, yet')
-    })
-    it('#findUserById should return empty for not existing id', () => {})
-  })
+      fail('Method not implemented, yet');
+    });
+    it('#findUserById should return empty for not existing id', () => {
+      fail('Method not implemented, yet');
+    });
+  });
   describe('#findAllUsers', () => {
     it('#findAllUsers should return all users', () => {
-      fail('Method not implemented, yet')
-    })
-  })
+      fail('Method not implemented, yet');
+    });
+  });
   describe('#findAllUsersByUserName', () => {
     it('#findAllUsersByUserName should return user for existing username', () => {
-      fail('Method not implemented, yet')
-    })
+      fail('Method not implemented, yet');
+    });
     it('#findAllUsersByUserName should return empty for not existing username', () => {
-      fail('Method not implemented, yet')
-    })
-  })
+      fail('Method not implemented, yet');
+    });
+  });
   describe('#findAllUsersByRole', () => {
     it('#findAllUsersByRole should return user for specified role', () => {
-      fail('Method not implemented, yet')
-    })
+      fail('Method not implemented, yet');
+    });
     it('#findAllUsersByRole should return empty for specified role', () => {
-      fail('Method not implemented, yet')
-    })
-  })
+      fail('Method not implemented, yet');
+    });
+  });
 });
