@@ -9,6 +9,8 @@ import { fail } from 'assert';
 xdescribe('GatewayUserService', () => {
   let service: GatewayUserService;
 
+  beforeEach()
+
   describe('#findUserById', () => {
     it('#findUserById should return user for existing id', () => {
       fail('Method not implemented, yet');
