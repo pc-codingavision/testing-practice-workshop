@@ -1,4 +1,5 @@
 function factorial(num) {
+
 if ( arguments.length != 1 || num < 0) {return null}
 
 var result = 1;
@@ -12,3 +13,4 @@ return result;
 }
 
 module.exports = factorial;
+
